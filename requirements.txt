@@ -1,0 +1,4 @@
+PySide6>=6.6
+pyVmomi>=8.0
+PyInstaller>=6.0
+pytest>=8.0
